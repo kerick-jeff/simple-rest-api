@@ -71,10 +71,10 @@ $ php artisan apikey:list -D
 // +----------+----+-------------+---------------------+------------------------------------------------------------------+
 // | Name     | ID | Status      | Status Date         | Key                                                              |
 // +----------+----+-------------+---------------------+------------------------------------------------------------------+
-// | app1     | 5  | deleted     | 2017-11-03 13:54:51 | 0ZdNlr7LrQocaqz74k6usQsOsqhqSIaUarSTf8mxnHuQVh9CvKAfpUy94VvBmFMq |
-// | app2     | 1  | deleted     | 2017-11-02 22:34:28 | KuKMQbgZPv0PRC6GqCMlDQ7fgdamsVY75FrQvHfoIbw4gBaG5UX0wfk6dugKxrtW |
-// | app3     | 3  | deactivated | 2017-11-02 23:12:34 | IrDlc7rSCvUzpZpW8jfhWaH235vJAqFwyzVWpoD0SLGzOimA6hcwqMvy4Nz6Hntn |
-// | app4     | 2  | active      | 2017-11-02 22:48:13 | KZEl4Y2HMuL013xvg6Teaa7zHPJhGy1TDhr2zWzlQCqTxqTzyPTcOV6fIQZVTIU3 |
+// | app1     | 5  | deleted     | 2019-03-12 13:54:51 | 0ZdNlr7LrQocaqz74k6usQsOsqhqSIaUarSTf8mxnHuQVh9CvKAfpUy94VvBmFMq |
+// | app2     | 1  | deleted     | 2019-03-12 14:34:28 | KuKMQbgZPv0PRC6GqCMlDQ7fgdamsVY75FrQvHfoIbw4gBaG5UX0wfk6dugKxrtW |
+// | app3     | 3  | deactivated | 2019-03-12 14:40:34 | IrDlc7rSCvUzpZpW8jfhWaH235vJAqFwyzVWpoD0SLGzOimA6hcwqMvy4Nz6Hntn |
+// | app4     | 2  | active      | 2019-03-12 14:42:13 | KZEl4Y2HMuL013xvg6Teaa7zHPJhGy1TDhr2zWzlQCqTxqTzyPTcOV6fIQZVTIU3 |
 // +----------+----+-------------+---------------------+------------------------------------------------------------------+
 ```
 
